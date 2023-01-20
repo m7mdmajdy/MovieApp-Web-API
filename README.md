@@ -5,6 +5,6 @@
 &emsp;&emsp;o Entity Framework, ORM<br>
 &emsp;&emsp;o OOP principles<br>
 &emsp;&emsp;o Postman & Swagger for testing <br>
-&emsp;&emsp;o Design patterns (Dependency injection)<br>
+&emsp;&emsp;o Design patterns (Dependency injection)<br> 
 &emsp;&emsp;o CRUD Operations<br>
 &emsp;&emsp;o SQL Server<br>
